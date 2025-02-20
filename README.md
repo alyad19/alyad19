@@ -16,6 +16,8 @@ Hi there! 👋 I'm Alya.
     Spotify Clone (Go) 🎵 | A backend music streaming service in progress
 
 📫 Reach me at: [adiawara@ucsc.edu] | [linkedin.com/in/alya-diawara]
+
+I'm also writing a blog where I post more insights about my projects : https://gogurl.online 
 <!---
 alyad19/alyad19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
