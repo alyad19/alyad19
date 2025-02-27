@@ -1,23 +1,14 @@
 Hi there! 👋 I'm Alya.
 
-🎓 Master’s student in Computer science
-💻 Aspiring Backend Engineer | Passionate about AI, Go, and Scalable Systems
-🔐 Cybersecurity & AI Enthusiast | Exploring ML for Security & Backend Dev
+🎓 Master’s student in Computer science, from Burkina Faso to France to California.
 🔨 Tech Stack:
 
     Languages: Go, Python, C, C#, Java, SQL
-    Frameworks & Tools: PyTorch, Flask, .NET, Docker
-    Interests: Backend dev, maths.
-
-🚀 Projects:
-
-    AI-Powered Search Engine 🧠🔎 | Uses BERT for summarization and retrieval
-    Student Management System (C# .NET) | GUI-based app for education management
-    Spotify Clone (Go) 🎵 | A backend music streaming service in progress
+    Interests: Backend dev, AI, research, mathematics, litterature.
 
 📫 Reach me at: [adiawara@ucsc.edu] | [linkedin.com/in/alya-diawara]
 
-I'm also writing a blog where I post more insights about my projects : https://gogurl.online 
+I'm also writing a (very amateur) blog where I post more insights about my projects, and other stuff : https://gogurl.online 
 <!---
 alyad19/alyad19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
